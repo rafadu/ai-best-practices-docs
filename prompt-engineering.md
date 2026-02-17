@@ -342,3 +342,9 @@ O guardrails funciona como um sistema de 3 camadas, onde a responsabilidade é c
         - Pequenas mudanças nos prompts tecnicamente garantem imparcialidade nos resultados
 
 **Ética não é um soft skill, é parte da arquitetura do sistema**
+
+# Princípios Fundamentais em Prompt Engineering
+
+- Prompts profissionais são restringidos
+- Use patterns e frameworks
+- Use sistemas de guardrails
